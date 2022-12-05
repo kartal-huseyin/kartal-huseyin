@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kartal-huseyin
+- 👋 Hi, I’m Huseyin Kartal.
 - 👀 I’m interested in Software Testing.
 - 🌱 I’m currently learning Jenkins.
 - 💞️ I’m looking to collaborate on handling exceptions.
