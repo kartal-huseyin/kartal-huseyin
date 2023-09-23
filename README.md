@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Huseyin Kartal.
 - 👀 I’m interested in Software Testing.
-- 🌱 I’m currently learning Jenkins.
+- 🌱 I’m currently learning Playwright.
 - 💞️ I’m looking to collaborate on handling exceptions.
 - 📫 How to reach me huseyin86kartal@gmail.com
 <div class="badge-base LI-profile-badge" data-locale="tr_TR" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="kartal-huseyin" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://tr.linkedin.com/in/kartal-huseyin?trk=profile-badge">    See My LinkedIn Profile</a></div>
